@@ -106,10 +106,11 @@ Use decimal points when a number is not easily written out as a fraction: 1.273.
 
 **Numbers**
 
-Spell out a number when it starts a sentence, otherwise use numerals:
+Spell out a number when it starts a sentence or if it's under ten, otherwise use numerals:
 
 *  ✅ Nine elements make up the array.
-*  ✅ The array has 9 elements.
+*  ✅ The array has nine elements.
+*  ✅ MetaMask will give you a 12-word secret recovery phrase.
 
 Some common expressions work best with numbers spelled out:
 
