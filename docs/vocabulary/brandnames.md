@@ -2,6 +2,7 @@
 
 ```
 Bitbucket (not bitbucket, BitBucket, bit bucket, Bit Bucket)
+CircleCI (not circleci, Circleci)
 Code Capsules (not codecapsules, CodeCapsules, code capsules)
 D3.js (Not D3.JS, D3JS, D3js, D3)
 dateutil (not Dateutil)
@@ -10,6 +11,7 @@ Express (not express, express.js, Express.js)
 feedparser (not Feedparser)
 Firefox (not FireFox, firefox)
 GitHub (not Github, Git Hub, github, git hub)
+GitHub Actions (not GitHub actions)
 Hashnode (not HashNode, Hash node, hashnode, hash node)
 HyperKit (not Hyperkit, hyperkit)
 JavaScript (not Javascript, Java Script, java script, javascript)
