@@ -1,6 +1,7 @@
-# Brandnames 
+# Brand names 
 
 ```
+Base64 (not Base 64, base64, base 64)
 Bitbucket (not bitbucket, BitBucket, bit bucket, Bit Bucket)
 CircleCI (not circleci, Circleci)
 Code Capsules (not codecapsules, CodeCapsules, code capsules)
