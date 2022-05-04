@@ -82,7 +82,7 @@ Comma splices can be corrected by replacing the comma with a semicolon, but this
 
 Use common contractions (we’ll, let’s, can’t) to make your tone friendly and informal, but avoid less common contractions (d’ya know ’em?).
 
-**File extensions**
+## File extensions
 
 Use uppercase when referring to a file type, add a lowercase s without an apostrophe for plurals:
 
