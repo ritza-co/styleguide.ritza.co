@@ -120,13 +120,13 @@ Use heading 1 (`#` in Markdown) for the title and heading 2 (`##`) to break thin
 
 ![distilling information](./img/distillinginfo.png)
 
-## Always have content between headings
+### Always have content between headings
 
 Don't have a subheading immediately below a heading without any text in between.
 
 ![no space heading](./img/no-space-heading.png)
 
-Rather add a short sentence to introduce the section, or try to restructure to use fewer headings (also, don't use this as an excuse to add 'fluff' text that adds no value to the article).
+Rather add a short sentence to introduce the section, or try to restructure to use fewer headings (also, don't use this as an excuse to add "fluff" text that adds no value to the article).
 
 ### Avoid nested bullets.
 
