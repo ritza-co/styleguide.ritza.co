@@ -2,7 +2,7 @@
 
 Our choice of which English to use depends on each client’s preference and house style. In the absence of a specified preference, default to American English.
 
-**Abbreviations, initialisms and acronyms**
+## Abbreviations, initialisms and acronyms
 
 Don’t spell out common shortenings, like API or HTML.
 
@@ -19,7 +19,7 @@ i.e. “that is”
 e.g. “for example”
 etc. “and other things”
 
-**Apostrophe**
+## Apostrophe
 
 Don’t use an apostrophe to indicate plural forms.
 
@@ -27,7 +27,7 @@ Use an apostrophe to indicate missing letters (can’t is a contraction of canno
 
 Possessive pronouns don’t take an apostrophe: hers, his, its, ours, theirs and yours.
 
-**Backticks**
+## Backticks
 
 Place inline code between backticks.
 
@@ -36,7 +36,7 @@ Use backticks to reference bits of code you’re narrating, but not for labels o
 *  ❌ Enter the filename and click `OK`.
 *  ✅ Import the built-in node `http` package.
 
-**Capitalization**
+## Capitalization
 
 Use sentence capitalization for titles and headings rather than title capitalization, unless the client expresses a preference for title capitalization. If you’re unsure, check the client’s style guide (if they have one) or match formatting to their existing documentation.
 
@@ -52,7 +52,7 @@ If a business’s website doesn’t clear up how to capitalize their brand name,
 
 Capitalize the names of websites and web publications. Don’t italicize.
 
-**Commas**
+## Commas
 
 Use a serial comma in lists:
 
@@ -78,7 +78,7 @@ Comma splices can be corrected by replacing the comma with a semicolon, but this
 
 * ✅ Download the files you need; unzip them on your computer.
 
-**Contractions**
+## Contractions
 
 Use common contractions (we’ll, let’s, can’t) to make your tone friendly and informal, but avoid less common contractions (d’ya know ’em?).
 
@@ -92,19 +92,19 @@ Use uppercase when referring to a file type, add a lowercase s without an apostr
 Specific file names should be in lowercase:
 *  ✅ tictactoe.png
 
-**Formatting**
+## Formatting
 
 Avoid using italics for emphasis.
 
 Avoid numbered lists.
 
-**Fractions and decimals**
+## Fractions and decimals
 
 Spell out and hyphenate fractions: two-thirds (not 2/3 or two thirds).
 
 Use decimal points when a number is not easily written out as a fraction: 1.273.
 
-**Numbers**
+## Numbers
 
 Spell out a number when it starts a sentence or if it's under ten, otherwise use numerals:
 
@@ -128,11 +128,11 @@ Numbers over three digits get commas
 *  ✅ 1,000
 *  ✅ 3,500,000
 
-**Percent**
+## Percent
 
 Use the % symbol instead of spelling out “percent”.
 
-**Pronouns**
+## Pronouns
 
 Use they, their and them in the singular if the subject’s gender is unknown or irrelevant:
 
@@ -144,12 +144,12 @@ Refer to a company or product as “it” (not “they” or “them”):
 
 * ✅ Replit is an online IDE. It has various collaborative features.
 
-**Quotation marks**
+## Quotation marks
 
 Use double quotation marks to identify labels or button text:
 
 Click “OK” to complete setup
 
-**URLs and websites**
+## URLs and websites
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
