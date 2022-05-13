@@ -1,3 +1,7 @@
+# Ritza's writing rules
+
+These are the style conventions we use to produce content that is clear, consistent, and accessible.
+
 ## Goals and principles
 
 Our goal is always to **teach**. This often means helping our readers understand complicated technology, either conceptually or by example. Give your reader the exact information they need and include opportunities for them to learn more.
