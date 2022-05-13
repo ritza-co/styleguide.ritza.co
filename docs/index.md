@@ -1,8 +1,10 @@
-# 📓 Welcome
+# 📓 Welcome to the Ritza style guide
 
-This is the style guide we use at [Ritza](https://ritza.co) to produce technical tutorials, documentation, blog articles, and documentation.
+[Ritza](https://ritza.co) is a technical publisher producing guides, documentation, tutorials, blog posts, ebooks, and more - by software engineers for software engineers.
 
-It's free and open source, so feel free to use it or steal it and adapt it to your own needs.
+This is our opinionated style guide, developed to help you produce work that is valuable and easy to understand.
+
+The Ritza style guide is free and open source. You're welcome to use it, share it, and adapt it to your own needs.
 
 
 
