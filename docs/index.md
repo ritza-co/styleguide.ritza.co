@@ -2,7 +2,7 @@
 
 Welcome to the [Ritza](https://ritza.co) style guide.
 
-Ritza is a technical publisher producing guides, documentation, tutorials, blog posts, ebooks, and more - by software engineers for software engineers.
+Ritza is a technical publisher producing guides, documentation, tutorials, blog posts, ebooks, and more — by software engineers for software engineers.
 
 This is our opinionated style guide, developed to help you produce work that is valuable and easy to understand.
 
