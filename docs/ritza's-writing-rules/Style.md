@@ -1,7 +1,3 @@
-# 📝 Welcome to the Ritza style guide
-
-This is our opinionated style guide, developed to help you produce work that is valuable and easy to understand.
-
 ## Goals and principles
 
 Our goal is always to **teach**. This often means helping our readers understand complicated technology, either conceptually or by example. Give your reader the exact information they need and include opportunities for them to learn more.
