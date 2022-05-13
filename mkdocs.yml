@@ -10,16 +10,7 @@ theme:
   logo: assets/ritzalogo.png
 
   palette:
-    - scheme: default
-      primary: white
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - scheme: slate
-      primary: white
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    primary: red
 
 markdown_extensions:
   - pymdownx.highlight

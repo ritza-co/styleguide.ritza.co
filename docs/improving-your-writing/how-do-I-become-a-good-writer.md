@@ -1,22 +1,19 @@
-# How do I become a good writer?
+# How do I get better at writing?
 
-Many people ask us how to become a writer. Here's an opinionated guide.
+Writing is a skill, but it's often treated as an art. People feel like they should be naturally good at it, and are embarrased if they aren't.
 
-## Year 1: write (yes, there are no shortcuts unfortunately).
+The single best thing you can do to improve your writing is to do it. A lot of it. For many years.
 
-The best resource is [docs.new](https://docs.new) or other text editor of your choice. Write. Preferably at least one million words.
+One shortcut is to watch this three hour video [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) by Larry McEnerney. I hate nearly all videos, and always prefer to read information instead. I never recommend videos. This is a great video and you should watch it.
 
-<a href="https://twitter.com/patio11/status/1199409126645723136"><img width="611" alt="image" src="https://user-images.githubusercontent.com/2641205/114298377-638f6780-9ab6-11eb-8f48-e9ced636f79e.png"></a>
+Once you're done, read [On Writing Well: The Classic Guide to Writing Nonfiction ](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548) by William Zinsser
 
-Some resources can help though (as long as you are writing too. The best is to read and write. If you don't have time, rather just write. 
+## Writing a lot
 
-### Resources
+The best way to write a lot is by doing it. Try [docs.new](https://docs.new) or other text editor of your choice. Aim for a million words, and then another million.
 
-* Watch [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) by Larry McEnerney
-* Read [On Writing Well: The Classic Guide to Writing Nonfiction ](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548) by William Zinsser
-* Read [On Writing: A Memoir of the Craft](https://www.amazon.com/Writing-Memoir-Craft-Stephen-King/dp/1439193630) by Stephen King
+<a href="https://twitter.com/patio11/status/1199409126645723136"><img width="611" alt="image" src="/assets/improving-your-writing/patio11tweet.png"></a>
 
-Many people try to learn something without doing it - by watching others, reading guides, buying courses. If you want to ignore one section in this document, 
-ignore this one and take note only of the previous one. That said, if you're actively practicing, getting some advice from people who have actively practiced 
-even more can be useful.
+
+
 
