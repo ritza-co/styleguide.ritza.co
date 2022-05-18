@@ -14,7 +14,7 @@ Some of the most in-demand jobs right now are a combination of coding and writin
 
 ## Details
 
-The course will be run mainly in [our community Slack group](https://ritza.co/slack.html). You'll be working through chapters of our book [Learn Python the Right Way](https://learnpythontherightway.com) and sharing your writing experise with participants from the other half of the course ([writing for coders](#)), while also getting feedback from the [Ritza team](https://ritza.co/team.html).
+The course will be run mainly in [our community Slack group](https://ritza.co/slack.html). You'll be working through chapters of our book [Learn Python the Right Way](https://learnpythontherightway.com) and sharing your writing experise with participants from the other half of the course ([Writing for Coders](./writing-for-coders.md)), while also getting feedback from the [Ritza team](https://ritza.co/team.html).
 
 * We'll start on Monday, 4 July 2022 and run through Friday, 29 July 2022.
 * There will be a weekly Zoom call, but otherwise all work and communication will be done asynchronously, via Slack.

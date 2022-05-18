@@ -2,8 +2,8 @@
 
 Ritza runs a writing and coding course that is broken into two parallel streams.
 
-* [Writing for Coders](./writing-for-coders) is for software engineers who want to improve their writing skills.
-* [Coding for Writers](./coding-for-writers) is for writers who want to learn to code.
+* [Writing for Coders](./writing-for-coders.md) is for software engineers who want to improve their writing skills.
+* [Coding for Writers](./coding-for-writers.md) is for writers who want to learn to code.
 
 The courses are run at the same time and are tightly integrated to allow each group to learn from the expertise of the other group, while both groups also receive support from the Ritza team.
 
