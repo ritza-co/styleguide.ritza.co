@@ -1,5 +1,7 @@
 # Coding for writers
 
+![Coding for Writers](./img/coding-for-writers.png)
+
 We're running a four-week, intensive Python programming course, specifically for people with a background in writing.
 
 You'll need to dedicate 15-20 hours per week. The course is fully remote, and you can join from anywhere in the world, but most people will likely be in a UTC+1 or UTC+2 timezone.

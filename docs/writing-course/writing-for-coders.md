@@ -1,5 +1,7 @@
 # Writing for coders
 
+![Writing for Coders](./img/writing-for-coders.png)
+
 We're running a four-week, intensive technical writing course, specifically for people with a background in software engineering.
 
 You'll need to dedicate 15-20 hours per week. The course is fully remote, and you can join from anywhere in the world, but most people will likely be in a UTC+1 or UTC+2 timezone.
