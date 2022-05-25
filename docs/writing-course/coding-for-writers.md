@@ -26,7 +26,7 @@ The course will be run mainly in [our community Slack group](https://ritza.co/sl
 
 
 ## Sign up
-* To apply, please fill out the [Google Form](#).
+* To apply, please fill out the [Google Form](https://forms.gle/sQthG5LcaSUnY6Wt8).
 
 * We'll review your application and make contact with three working days.
 * If you are accepted (and have not applied for the scholarship option), we'll send you a payment link for the joining fee (to be paid by credit or debit card, other options available on request).

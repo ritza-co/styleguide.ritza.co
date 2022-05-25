@@ -10,3 +10,7 @@ The courses are run at the same time and are tightly integrated to allow each gr
 The courses run for four weeks, and are fully remote. We communicate mainly in the [Ritza Slack](https://ritza.co/slack.html) and have a weekly zoom call. The time commitment is around 15-20 hours / week.
 
 There is a joining fee of $100, and some scholarship places are available.
+
+Apply by following the relevant links to [Writing for Coders](./writing-for-coders.md) or [Coding for Writers](./coding-for-writers.md).
+
+
