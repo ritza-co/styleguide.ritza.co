@@ -198,8 +198,24 @@ You should also always specify the language where appropriate after the three ba
 ✅ Now run:
 
 ````
-```python
+```
 python3 app.py
+```
+````
+
+❌
+````
+```
+def main():
+    print("Hello world")
+```
+````
+
+✅
+````
+```python
+def main():
+    print("Hello world")
 ```
 ````
 
