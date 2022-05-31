@@ -191,12 +191,15 @@ Screenshots are helpful tools for tutorials, but using them too often or without
 
 It's ok to use markdown's single back-tick syntax to highlight a single word like "Notice the `for` statement below". For any code samples, even if only one line, rather use three backticks and have the code on its own line and in its own section.
 
+You should also always specify the language where appropriate after the three backticks. You can leave this blank for shell commands.
+
 ❌ Now run `python3 app.py`
 
 ✅ Now run:
 
 ````
-```
+```python
 python3 app.py
 ```
 ````
+
