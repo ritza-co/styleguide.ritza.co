@@ -1,3 +1,9 @@
+---
+title: Ritza's Writing and Coding Course
+description: Learn to write if you're a coder. Learn to code if you're a writer. Sign up for our part time, remote course to learn to write or code.
+image: assets/wfccfw.png
+---
+
 # Ritza's Writing and Coding Course
 
 Ritza runs a writing and coding course that is broken into two parallel streams.
