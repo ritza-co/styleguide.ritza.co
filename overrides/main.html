@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="ritzaco" />
+  <meta name="twitter:creator" content="ritzaco" />
+  {% if page and page.meta and page.meta.title and page.meta.description and page.meta.image %}
+      <meta name="twitter:title" content="{{ page.meta.title }}" />
+      <meta name="twitter:description" content="{{ page.meta.description}}" />
+      <meta name="twitter:image" content="{{config.site_url}}{{page.meta.image }}" />
+  {% elif page and page.meta and page.meta.title and page.meta.description %}
+      <meta name="twitter:title" content="{{ page.meta.title }}" />
+      <meta name="twitter:description" content="{{ page.meta.description}}" />
+  {% endif %}
+{% endblock %}
