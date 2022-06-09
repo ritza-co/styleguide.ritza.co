@@ -16,7 +16,7 @@ If you're a software engineer, improving your writing skills will help you in ma
 
 ## Details
 
-The course will be run mainly in [our community Slack group](https://ritza.co/slack.html). You'll be working through chapters of the book [On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548) and sharing your technical experise with participants from the other half of the course ([Coding for Writers](./coding-for-writers.md)), while also getting feedback from the [Ritza team](https://ritza.co/team.html).
+The course will be run mainly in [our community Slack group](https://ritza.co/slack.html). You'll be working through chapters of the book [On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548) and sharing your technical expertise with participants from the other half of the course ([Coding for Writers](./coding-for-writers.md)), while also getting feedback from the [Ritza team](https://ritza.co/team.html).
 
 * We'll start on Monday, 4 July 2022 and run through Friday, 29 July 2022.
 * There will be a weekly Zoom call, but otherwise all work and communication will be done asynchronously, via Slack.
@@ -28,7 +28,7 @@ The course will be run mainly in [our community Slack group](https://ritza.co/sl
 ## Sign up
 * To apply, please fill out the [Google Form](https://forms.gle/sQthG5LcaSUnY6Wt8).
 
-* We'll review your application and make contact with three working days.
+* We'll review your application and make contact within three working days.
 * If you are accepted (and have not applied for the scholarship option), we'll send you a payment link for the joining fee (to be paid by credit or debit card, other options available on request).
 * You will be accepted if:
     * You have some demonstrable writing experience.
