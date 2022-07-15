@@ -36,6 +36,11 @@ Use backticks to reference bits of code you’re narrating, but not for labels o
 *  ❌ Enter the filename and click `OK`.
 *  ✅ Import the built-in node `http` package.
 
+Avoid starting headings or sentences with backticks or code:
+
+* ❌ `request.args` is an ImmutableMultiDict.
+* ✅ The `request.args` attribute is an ImmutableMultiDict.
+
 ## Capitalization
 
 Use sentence capitalization for titles and headings rather than title capitalization, unless the client expresses a preference for title capitalization. If you’re unsure, check the client’s style guide (if they have one) or match formatting to their existing documentation.
