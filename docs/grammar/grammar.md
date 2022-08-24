@@ -109,6 +109,19 @@ Spell out and hyphenate fractions: two-thirds (not 2/3 or two thirds).
 
 Use decimal points when a number is not easily written out as a fraction: 1.273.
 
+## Login, log in, log in to
+
+**login** (noun)  
+Your access credentials:  
+*  ✅ Keep your login details handy.
+
+**log in** (phrasal verb)  
+*  ✅ To make these changes, you'll need to log in.
+
+**log in to**  
+The term "log in" is a phrasal verb, so we add the preposition after a space:  
+*  ✅ Log in to GitHub.
+
 ## Numbers
 
 Spell out a number when it starts a sentence or if it's under ten, otherwise use numerals:
@@ -153,7 +166,16 @@ Refer to a company or product as “it” (not “they” or “them”):
 
 Use double quotation marks to identify labels or button text:
 
-Click “OK” to complete setup
+* ✅ Click “OK” to complete set up
+
+## Setup vs set up
+
+We use **setup** as a noun or adjective:  
+* ✅ A microservices setup.
+* ✅ Follow the setup instructions.
+
+We use **set up** as a verb:
+* ✅ How to set up your account.
 
 ## URLs and websites
 
