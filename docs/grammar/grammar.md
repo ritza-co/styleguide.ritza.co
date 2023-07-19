@@ -61,7 +61,11 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Use a serial comma in lists:
 
-*  ✅ We shouldn't store passwords, access keys, personal information, or anything else sensitive in publicly accessible files.
+* ✅ We shouldn't store passwords, access keys, personal information, or anything else sensitive in publicly accessible files.
+
+Place a comma after a conditional clause if it precedes the main clause:
+
+* ✅ In reality, you'll want to create a random user at the beginning of each log-in test.
 
 Avoid comma splices:
 
