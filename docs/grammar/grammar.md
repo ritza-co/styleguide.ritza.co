@@ -63,9 +63,19 @@ Use a serial comma in lists:
 
 * ✅ We shouldn't store passwords, access keys, personal information, or anything else sensitive in publicly accessible files.
 
-Place a comma after a conditional clause if it precedes the main clause:
+Use a comma to separate introductory words, phrases, or clauses from the main clause of a sentence. These include:
 
-* ✅ In reality, you'll want to create a random user at the beginning of each log-in test.
+* Transitional phrases and words
+
+    * ✅ However, to ensure data security, it's crucial that you now set up appropriate user permissions.
+
+* Adverbial phrases and clauses
+  
+    * ✅ In reality, you'll want to create a random user at the beginning of each log-in test.
+
+* Conditional phrases and clauses
+  
+    * ✅ Before you can write any tests, you need a test user profile to log in with.
 
 Avoid comma splices:
 
