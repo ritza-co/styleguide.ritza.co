@@ -128,14 +128,17 @@ Use decimal points when a number is not easily written out as a fraction: 1.273.
 ## Login, log in, log in to
 
 **login** (noun)  
-Your access credentials:  
+Your access credentials: 
+
 *  ✅ Keep your login details handy.
 
 **log in** (phrasal verb)  
+
 *  ✅ To make these changes, you'll need to log in.
 
-**log in to**  
-The term "log in" is a phrasal verb, so we add the preposition after a space:  
+**log in to** 
+The term "log in" is a phrasal verb, so we add the preposition after a space: 
+
 *  ✅ Log in to GitHub.
 
 ## Numbers
@@ -187,10 +190,12 @@ Use double quotation marks to identify labels or button text:
 ## Setup vs set up
 
 We use **setup** as a noun or adjective:  
+
 * ✅ A microservices setup.
 * ✅ Follow the setup instructions.
 
 We use **set up** as a verb:
+
 * ✅ How to set up your account.
 
 ## URLs and websites
