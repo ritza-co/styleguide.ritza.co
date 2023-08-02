@@ -24,9 +24,16 @@ Use the abbreviations "i.e.", "e.g.", and "etc." sparingly, but format them as w
 
 Don't use an apostrophe to indicate plural forms.
 
-Use an apostrophe to indicate missing letters (can't is a contraction of cannot) or possession (Acme's tool).
+Use an apostrophe to indicate missing letters (can't is a contraction of cannot) or possession (the user's password).
 
 Possessive pronouns don't take an apostrophe: hers, his, its, ours, theirs, and yours.
+
+Avoid using a possessive apostrophe with brand names and inanimate things:
+
+* ❌ Speakeasy's SDK Generator.
+* ✅ The Speakeasy SDK Generator.
+* ❌ The applications's administrator.
+* ✅ The administrator of the application.
 
 ## Backticks
 
