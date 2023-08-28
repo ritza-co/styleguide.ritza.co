@@ -159,7 +159,7 @@ Choosing what text to link to an additional resource is more an art than a scien
 * ❌ "You can follow the widget [guide](#) to learn more"
 * ✅ "You can follow the [widget guide](#) to learn more"
 
-The first example links too much unnecessary wording. In the second example, the link could be to a Wikipedia article explaining what a guide is. The third makes it clear that it is a link to the guide that was mentioned.
+The first example links too much unnecessary wording. In the second example, the link could be to a Wikipedia article explaining what a guide is. The third makes it clear that it is a link to the guide that was mentioned. Avoid using extra generic text like `[click here]` when linking.
 
 ### Include user-friendly code samples.
 
