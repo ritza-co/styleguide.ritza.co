@@ -1,6 +1,6 @@
 # Writing for coders
 
-![Writing for Coders](./img/writing-for-coders.png)
+![Writing for Coders](/assets/writing-for-coders.png)
 
 We're running a four-week, intensive technical writing course, specifically for people with a background in software engineering.
 
