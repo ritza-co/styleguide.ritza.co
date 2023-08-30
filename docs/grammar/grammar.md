@@ -1,37 +1,45 @@
 # Grammar
 
-Our choice of which English to use depends on each client’s preference and house style. In the absence of a specified preference, default to American English.
+Our choice of which English to use depends on each client's preference and house style. In the absence of a specified preference, default to American English.
 
-## Abbreviations, initialisms and acronyms
+## Abbreviations, initialisms, and acronyms
 
-Don’t spell out common shortenings, like API or HTML.
+Don't spell out common shortenings, like API or HTML.
 
-Shortenings written in all caps take no points (API not A.P.I.) and are followed by a lowercase ‘s’ in plurals (APIs not API’s). Only use an apostrophe to indicate possession:
+Shortenings written in all caps take no points (API not A.P.I.) and are followed by a lowercase 's' in plurals (APIs not API's). Only use an apostrophe to indicate possession:
 
-*  ✅ Check the API’s documentation.
+*  ✅ Check the API's documentation.
 
-If there’s a chance your reader won’t be familiar with an acronym or initialism, spell it out the first time followed by the short version in brackets:
+If there's a chance your reader won't be familiar with an acronym or initialism, spell it out the first time followed by the short version in brackets:
 
 * ✅ Coordinated Universal Time (UTC)
 
-Use the abbreviations “i.e.”, “e.g.” and “etc.” sparingly, but format them as written here if you do. If you’re unsure of the proper use of these shortenings, try using their definitions in their place to see if your sentence makes sense:
-i.e. “that is”
-e.g. “for example”
-etc. “and other things”
+Use the abbreviations "i.e.", "e.g.", and "etc." sparingly, but format them as written here if you do. If you're unsure of the proper use of these shortenings, try using their definitions in their place to see if your sentence makes sense:
+
+* i.e. "that is"
+* e.g. "for example"
+* etc. "and other things"
 
 ## Apostrophe
 
-Don’t use an apostrophe to indicate plural forms.
+Don't use an apostrophe to indicate plural forms.
 
-Use an apostrophe to indicate missing letters (can’t is a contraction of cannot) or possession (Acme’s tool).
+Use an apostrophe to indicate missing letters (can't is a contraction of cannot) or possession (the user's password).
 
-Possessive pronouns don’t take an apostrophe: hers, his, its, ours, theirs and yours.
+Possessive pronouns don't take an apostrophe: hers, his, its, ours, theirs, and yours.
+
+Avoid using a possessive apostrophe with brand names and inanimate things:
+
+* ❌ Speakeasy's SDK Generator.
+* ✅ The Speakeasy SDK Generator.
+* ❌ The applications's administrator.
+* ✅ The administrator of the application.
 
 ## Backticks
 
 Place inline code between backticks.
 
-Use backticks to reference bits of code you’re narrating, but not for labels or button text.
+Use backticks to reference bits of code you're narrating, but not for labels or button text.
 
 *  ❌ Enter the filename and click `OK`.
 *  ✅ Import the built-in node `http` package.
@@ -43,25 +51,55 @@ Avoid starting headings or sentences with backticks or code:
 
 ## Capitalization
 
-Use sentence capitalization for titles and headings rather than title capitalization, unless the client expresses a preference for title capitalization. If you’re unsure, check the client’s style guide (if they have one) or match formatting to their existing documentation.
+### Titles and headings
+
+Capitalize titles and headings according to the customer's style guide if they have one or match capitalization to their existing documentation.
+
+At Ritza, we default to **sentence case** for titles and headings.
 
 *  ✅ Using multiplayer with anonymous users
 
-Title capitalization: Capitalize the first word of the title and all nouns, verbs, adjectives and adverbs. Don’t capitalize articles (a, the), prepositions (on, over), and conjunctions (and, but).
+Some of our customers prefer **title case** for titles and headings. 
 
-*  ✅ Setting up Stripe Checkout and Email Subscription with Flask and Code Capsules
+Title case uses an initial capital for the first word of the title and all nouns, verbs, adjectives, and adverbs. Don't capitalize the first letter of articles (a, the), conjunctions (and, but), and short prepositions (on, for). Applying title case can be tricky because a word may have a different function depending on its context. For example, "to" is a preposition in "Migrating to Bryntum" but an infinitive marker (part of the verb) in "How To Log In".
 
-Some company names use irregular capitalization rules. We’ve compiled a list of common examples here, but you should check the company’s website to confirm their preferred formatting if there’s any doubt.
+To correctly capitalize titles and headings, use a tool like [Title Case Converter](https://titlecaseconverter.com).
 
-If a business’s website doesn’t clear up how to capitalize their brand name, follow Wikipedia’s usage.
+*  ✅ Setting Up Stripe Checkout and Email Subscription With Flask and Code Capsules
 
-Capitalize the names of websites and web publications. Don’t italicize.
+Occasionally, our customers prefer **start case** for titles and headings. Start case uses an initial capital for every word.
+
+* ✅ Using The FusionAuth React SDK In A React Application
+
+### Company names
+
+Some company names use irregular capitalization rules. We've compiled a list of common examples [here](./vocabulary/brandnames), but you should check the company website to confirm their preferred formatting if there's any doubt.
+
+If the company website doesn't clear up how to capitalize their brand name, follow Wikipedia usage.
+
+### Websites and web publications
+
+Capitalize the names of websites and web publications. Don't italicize.
 
 ## Commas
 
 Use a serial comma in lists:
 
-*  ✅ We shouldn't store passwords, access keys, personal information, or anything else sensitive in publicly accessible files.
+* ✅ We shouldn't store passwords, access keys, personal information, or anything else sensitive in publicly accessible files.
+
+Use a comma to separate introductory words, phrases, or clauses from the main clause of a sentence. These include:
+
+* Transitional phrases and words
+
+    * ✅ However, to ensure data security, it's crucial that you now set up appropriate user permissions.
+
+* Adverbial phrases and clauses
+  
+    * ✅ In reality, you'll want to create a random user at the beginning of each login test.
+
+* Conditional phrases and clauses
+  
+    * ✅ Before you can write any tests, you need a test user profile to log in with.
 
 Avoid comma splices:
 
@@ -77,7 +115,7 @@ Correct comma splices by rewriting the independent clauses as complete sentences
 
 Alternatively, add a conjunction:
 
-* ✅ Download the files you need, **and** unzip them on your computer.
+* ✅ Download the files you need **and** unzip them on your computer.
 
 Comma splices can be corrected by replacing the comma with a semicolon, but this approach is not recommended for our content:
 
@@ -85,7 +123,7 @@ Comma splices can be corrected by replacing the comma with a semicolon, but this
 
 ## Contractions
 
-Use common contractions (we’ll, let’s, can’t) to make your tone friendly and informal, but avoid less common contractions (d’ya know ’em?).
+Use common contractions (we'll, let's, can't) to make your tone friendly and informal, but avoid less common contractions (d'ya know 'em?).
 
 ## File extensions
 
@@ -94,7 +132,8 @@ Use uppercase when referring to a file type, add a lowercase s without an apostr
 *  ✅ PNG
 *  ✅ PDFs
 
-Specific file names should be in lowercase:
+In file names, extensions should be lowercase:
+
 *  ✅ tictactoe.png
 
 ## Formatting
@@ -112,14 +151,17 @@ Use decimal points when a number is not easily written out as a fraction: 1.273.
 ## Login, log in, log in to
 
 **login** (noun)  
-Your access credentials:  
+Your access credentials: 
+
 *  ✅ Keep your login details handy.
 
 **log in** (phrasal verb)  
+
 *  ✅ To make these changes, you'll need to log in.
 
-**log in to**  
-The term "log in" is a phrasal verb, so we add the preposition after a space:  
+**log in to** 
+The term "log in" is a phrasal verb, so we add the preposition after a space: 
+
 *  ✅ Log in to GitHub.
 
 ## Numbers
@@ -140,7 +182,7 @@ Ordinals should mostly be avoided, but spelled out when used:
 *  ✅ Third-party
 *  ✅ First impression
 
-Numbers over three digits get commas
+Numbers over three digits get commas:
 
 *  ✅ 999
 *  ✅ 1,000
@@ -148,17 +190,17 @@ Numbers over three digits get commas
 
 ## Percent
 
-Use the % symbol instead of spelling out “percent”.
+Use the % symbol instead of spelling out "percent".
 
 ## Pronouns
 
-Use they, their and them in the singular if the subject’s gender is unknown or irrelevant:
+Use they, their, and them in the singular if the subject's gender is unknown or irrelevant:
 
 *  ✅ Send your collaborator the join link and they'll be redirected to the sign in page.
 
-Never use the pronoun “one”.
+Never use the pronoun "one".
 
-Refer to a company or product as “it” (not “they” or “them”):
+Refer to a company or product as "it" (not "they" or "them"):
 
 * ✅ Replit is an online IDE. It has various collaborative features.
 
@@ -166,17 +208,19 @@ Refer to a company or product as “it” (not “they” or “them”):
 
 Use double quotation marks to identify labels or button text:
 
-* ✅ Click “OK” to complete set up
+* ✅ Click "OK" to complete set up
 
 ## Setup vs set up
 
 We use **setup** as a noun or adjective:  
+
 * ✅ A microservices setup.
 * ✅ Follow the setup instructions.
 
 We use **set up** as a verb:
+
 * ✅ How to set up your account.
 
 ## URLs and websites
 
-Avoid spelling out URLs, but when you need to, leave off the http://www.
+Avoid spelling out URLs, but when you need to, leave off `http://www.`.
