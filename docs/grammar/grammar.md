@@ -81,6 +81,16 @@ If the company website doesn't clear up how to capitalize their brand name, foll
 
 Capitalize the names of websites and web publications. Don't italicize.
 
+## Code comments
+
+When adding comments to your code, start with a capital letter and use conventional punctuation if the comment is a full sentence or multiple sentences.
+
+* ✅ // This config enables response validation and dumping of found errors to the browser console. It's meant to be used as a helper during the development stage, so please set it to false for production systems.
+
+Short phrases and incomplete sentences don't need to start with a capital letter or end with a period.
+
+* ✅ // insert record
+
 ## Commas
 
 Use a serial comma in lists:
