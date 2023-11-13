@@ -223,13 +223,13 @@ We'll create most of the fields for the custom objects and add some initial data
 
 In your Salesforce scratch org
 
-* Open "Setup" by clicking the gear icon on the top right of the page.
-* Navigate to the "Object Manager" tab.
-* At the top of this tab, right-click the "Create" button.
-* In the dropdown menu, click "Custom Object from Spreadsheet".
-* In the new tab, click the "Login with Sandbox" button.
-* In the login form, click "Use Custom Domain".
-* Use the domain URL you added to the  sfdcLoginUrl  property in your  sfdx-project.json file.
+1. Open "Setup" by clicking the gear icon on the top right of the page.
+2. Navigate to the "Object Manager" tab.
+3. At the top of this tab, right-click the "Create" button.
+4. In the dropdown menu, click "Custom Object from Spreadsheet".
+5. In the new tab, click the "Login with Sandbox" button.
+6. In the login form, click "Use Custom Domain".
+7. Use the domain URL you added to the  sfdcLoginUrl  property in your  sfdx-project.json file.
 
 To get the username for your scratch org, run the following command in your VS Code terminal:
 
