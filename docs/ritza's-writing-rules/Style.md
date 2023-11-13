@@ -128,6 +128,113 @@ Don't have a subheading immediately below a heading without any text in between.
 
 Rather add a short sentence to introduce the section, or try to restructure to use fewer headings (also, don't use this as an excuse to add "fluff" text that adds no value to the article).
 
+### Don't switch from explanation to instruction in a way that the reader might overlook
+
+A tutorial often combines _explanation_ (telling the reader how something works or giving extra context) and _instruction_ (telling the reader what to do).
+
+Always keep in mind that the reader might be skimming the _explanation_ steps. If you suddenly change from explanation to instruction, the reader might accidentally skip the instructions too.
+
+For example, you might have a structure like the following.
+
+⚠️ ⚠️ ⚠️ ⚠️ 
+
+````
+## Section 1
+
+Now add the following code to the foo.py file:
+
+```
+# long code sample
+```
+
+This code does foo bar
+
+explanation 
+
+explanation 
+
+explanation
+
+Now copy the foo file to the baz location.
+
+## Section 2
+
+Now we'll do foobar. Baz the foobar...
+````
+⚠️ ⚠️ ⚠️ ⚠️ 
+
+In this example, the reader might skip the explanation steps and miss the instruction to copy the foo file, jumping directly to section 2 instead.
+
+There isn't a single way to fix this. You might restructure to group instructions and explanations better, or add more subheadings to separate out instructions and explanations. 
+
+When you do the final readthrough, try to imagine a reader in a rush to get to the end. What might they skip on purpose? And if they skip some bits on purpose, is it clear where they can jump back in.
+
+Having a very short section isn't a problem if it helps the reader navigate more easily. For example, the above could be fixed by adding a new subheading even though it is a bit repetitive of the content it contains.
+
+✅✅✅✅  
+````
+## Section 1
+
+Now add the following code to the foo.py file:
+
+```
+# long code sample
+```
+
+This code does foo bar
+
+explanation 
+
+explanation 
+
+explanation
+
+### Copying the foo file
+
+Now copy the foo file to the baz location.
+
+## Section 2
+
+Now we'll do foobar. Baz the foobar...
+````
+✅✅✅✅  
+
+### Avoid long paragraphs with many separate steps
+
+A reader might be alt-tabbing between the tutorial and other applications as they step through a tutorial. If you have many steps in a paragraph, it is more difficult for the reader to keep track of where in the paragraph they are. 
+
+⚠️ ⚠️ ⚠️ ⚠️ 
+In your Salesforce scratch org, open "Setup" by clicking the gear icon on the top right of the page. Navigate to
+the "Object Manager" tab. At the top of this tab, right-click the "Create" button. In the dropdown menu, click
+"Custom Object from Spreadsheet". We'll create most of the fields for the custom objects and add some initial data
+by importing data from spreadsheets, as this is faster than creating each field manually in the Salesforce UI. In
+the new tab, click the "Login with Sandbox" button. In the login form, click "Use Custom Domain". Use the domain
+URL you added to the  sfdcLoginUrl  property in your  sfdx-project.json  file. To get the username for your scratch
+org, run the following command in your VS Code terminal:
+⚠️ ⚠️ ⚠️ ⚠️ 
+
+Where possible, rather use numbered bullet points (then the reader can remember that they tabbed away from the tutorial at "point 4", or break it into more paragraphs.
+
+✅✅✅✅  
+
+We'll create most of the fields for the custom objects and add some initial data by importing data from spreadsheets, as this is faster than creating each field manually in the Salesforce UI. 
+
+In your Salesforce scratch org
+
+* Open "Setup" by clicking the gear icon on the top right of the page.
+* Navigate to the "Object Manager" tab.
+* At the top of this tab, right-click the "Create" button.
+* In the dropdown menu, click "Custom Object from Spreadsheet".
+* In the new tab, click the "Login with Sandbox" button.
+* In the login form, click "Use Custom Domain".
+* Use the domain URL you added to the  sfdcLoginUrl  property in your  sfdx-project.json file.
+
+To get the username for your scratch org, run the following command in your VS Code terminal:
+
+✅✅✅✅  
+
+Here we've put the explanation at the start instead of in the middle of the paragraph, and then made it easier for the reader to follow the steps by breaking them down into bullet points.
+
 ### Avoid nested bullets.
 
 Don't nest bullets into several levels. Rather restructure the content so that you can use separate bullet lists:
