@@ -204,6 +204,7 @@ Now we'll do foobar. Baz the foobar...
 A reader might be alt-tabbing between the tutorial and other applications as they step through a tutorial. If you have many steps in a paragraph, it is more difficult for the reader to keep track of where in the paragraph they are. 
 
 ⚠️ ⚠️ ⚠️ ⚠️ 
+
 In your Salesforce scratch org, open "Setup" by clicking the gear icon on the top right of the page. Navigate to
 the "Object Manager" tab. At the top of this tab, right-click the "Create" button. In the dropdown menu, click
 "Custom Object from Spreadsheet". We'll create most of the fields for the custom objects and add some initial data
@@ -211,6 +212,7 @@ by importing data from spreadsheets, as this is faster than creating each field 
 the new tab, click the "Login with Sandbox" button. In the login form, click "Use Custom Domain". Use the domain
 URL you added to the  sfdcLoginUrl  property in your  sfdx-project.json  file. To get the username for your scratch
 org, run the following command in your VS Code terminal:
+
 ⚠️ ⚠️ ⚠️ ⚠️ 
 
 Where possible, rather use numbered bullet points (then the reader can remember that they tabbed away from the tutorial at "point 4", or break it into more paragraphs.
