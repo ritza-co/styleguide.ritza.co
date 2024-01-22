@@ -25,7 +25,12 @@ Default to **first person plural** to include the reader in your “team”. Thi
 Sometimes it's more efficient to use the **second person imperative** and "instruct" the reader by telling them what needs to be done. This can be harsher but it's often less wordy, so use your judgement:
 
 * ⚠️ "We can do this by using our package manager. We'll achieve this by typing `sudo apt-install widget-factory`"
-* ✅ "We can do this by using our package manager. Type `sudo apt-install widget-factory`"
+* ✅ "We can do this by using our package manager. Type `sudo apt install widget-factory`"
+
+When using the imperative, there's no need to say "Please" to the reader.
+
+* ⚠️  Please type `sudo apt install widget-factory`
+* ✅ Type `sudo apt install widget-factory`
 
 It's ok to refer to the reader as 'you' in some cases, where the writer is clearly not involved, but in general, default to the 'we' voice wherever possible:
 
