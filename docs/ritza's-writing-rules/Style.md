@@ -115,6 +115,14 @@ Sometimes, you need to reword to avoid implying that something is simple:
 * ❌ It's easy to add new widgets using Acme's tool. Click `menu` -> `add widget`.
 * ✅ To add a new widget using Acme's tool, click `menu` -> `add widget`.
 
+#### Avoid relying on formatting for emphasis
+
+It's occasionally useful to use **bold** to draw the reader's attention to something, but this should be done very sparingly, and never for whole phrases or sentences at a time. Generally use **bold** or _italics_, but never mix them in the same document, unless there is a well-defined convention of when to use which.
+
+Never use underlining, unless there is a well-defined existing convention about what it means in a specific context.
+
+Rather use word order, sentence structure, and punctuation to draw the reader's attention to important sections where possible.
+
 ## Structure
 
 The structure of your article helps to present information in the clearest way. Here are some things to keep in mind regarding structure:
