@@ -8,6 +8,9 @@ nav:
         - 'Voice and tone': voice-tone.md
         - 'Structure': structure.md
         - 'Things to avoid': things-to-avoid.md
+    - 'Grammar and usage':
+        - 'Grammar and usage': grammar-and-usage.md
+        - 'Punctuation': punctuation.md
 
 theme:
   features:
