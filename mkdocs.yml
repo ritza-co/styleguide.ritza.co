@@ -11,6 +11,7 @@ nav:
     - 'Grammar and usage':
         - 'Grammar and usage': grammar-and-usage.md
         - 'Punctuation': punctuation.md
+    - Formatting and style: formatting-and-style.md
 
 theme:
   features:
