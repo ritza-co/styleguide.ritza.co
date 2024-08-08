@@ -137,3 +137,7 @@ or with a keyboard shortcut
 Never use underlining, unless there is a well-defined existing convention about what it means in a specific context.
 
 Rather use word order, sentence structure, and punctuation to draw the reader's attention to important sections where possible.
+
+## Avoid long code snippets.
+
+Instead of giving an entire file to copy-paste, break down the code into several steps if possible.
