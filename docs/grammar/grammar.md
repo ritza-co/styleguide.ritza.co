@@ -246,6 +246,10 @@ Always treat "data" as a singular noun.
 * ❌ Import data and organize them.
 * ✅ Import data and organize it.
 
+### Frontend and backend
+
+Always write "frontend" and "backend" as single words.
+
 ### Internet
 
 Don't give "internet" an initial capital unless it appears at the start of a sentence.
