@@ -73,6 +73,67 @@ Sometimes, you need to reword to avoid implying that something is simple:
 
 It's occasionally useful to use **bold** to draw the reader's attention to something, but this should be done very sparingly, and never for whole phrases or sentences at a time. Generally use **bold** or _italics_, but never mix them in the same document, unless there is a well-defined convention of when to use which.
 
+## Avoid long paragraphs with many separate steps
+
+A reader might be alt-tabbing between the tutorial and other applications as they step through a tutorial. If you have many steps in a paragraph, it is more difficult for the reader to keep track of where in the paragraph they are. 
+
+⚠️ ⚠️ ⚠️ ⚠️ 
+
+In your Salesforce scratch org, open "Setup" by clicking the gear icon on the top right of the page. Navigate to
+the "Object Manager" tab. At the top of this tab, right-click the "Create" button. In the dropdown menu, click
+"Custom Object from Spreadsheet". We'll create most of the fields for the custom objects and add some initial data
+by importing data from spreadsheets, as this is faster than creating each field manually in the Salesforce UI. In
+the new tab, click the "Login with Sandbox" button. In the login form, click "Use Custom Domain". Use the domain
+URL you added to the  sfdcLoginUrl  property in your  sfdx-project.json  file. To get the username for your scratch
+org, run the following command in your VS Code terminal:
+
+⚠️ ⚠️ ⚠️ ⚠️ 
+
+Where possible, rather use numbered bullet points (then the reader can remember that they tabbed away from the tutorial at "point 4", or break it into more paragraphs.
+
+✅✅✅✅  
+
+We'll create most of the fields for the custom objects and add some initial data by importing data from spreadsheets, as this is faster than creating each field manually in the Salesforce UI. 
+
+In your Salesforce scratch org
+
+1. Open "Setup" by clicking the gear icon on the top right of the page.
+2. Navigate to the "Object Manager" tab.
+3. At the top of this tab, right-click the "Create" button.
+4. In the dropdown menu, click "Custom Object from Spreadsheet".
+5. In the new tab, click the "Login with Sandbox" button.
+6. In the login form, click "Use Custom Domain".
+7. Use the domain URL you added to the  sfdcLoginUrl  property in your  sfdx-project.json file.
+
+To get the username for your scratch org, run the following command in your VS Code terminal:
+
+✅✅✅✅  
+
+Here we've put the explanation at the start instead of in the middle of the paragraph, and then made it easier for the reader to follow the steps by breaking them down into bullet points.
+
+## Avoid nested bullets.
+
+Don't nest bullets into several levels. Rather restructure the content so that you can use separate bullet lists:
+
+❌ You have several options for adding widgets
+
+* From the menu
+    * by clicking on `file` -> `add widget`
+    * by clicking on `help` searching for `add widget` and hitting `enter`
+* With a keyboard shortcut
+    * by pressing `a` and then `w` in command mode
+    * by pressing `ctrl + a`
+
+✅ You can add widgets from the menu
+
+* by clicking on `file` -> `add widget`
+* by clicking on `help` searching for `add widget` and hitting `enter`
+
+or with a keyboard shortcut
+
+* by pressing `a` and then `w` in command mode
+* by pressing `ctrl + a`
+
 Never use underlining, unless there is a well-defined existing convention about what it means in a specific context.
 
 Rather use word order, sentence structure, and punctuation to draw the reader's attention to important sections where possible.
