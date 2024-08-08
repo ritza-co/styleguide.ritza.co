@@ -1,6 +1,14 @@
 site_name: Ritza Style Guide
 site_url: https://styleguide.ritza.co
 
+nav:
+    - Welcome: index.md
+    - 'Writing guidelines': 
+        - 'Goals and principles': goals-principles.md
+        - 'Voice and tone': voice-tone.md
+        - 'Structure': structure.md
+        - 'Things to avoid': things-to-avoid.md
+
 theme:
   features:
     - navigation.indexes
