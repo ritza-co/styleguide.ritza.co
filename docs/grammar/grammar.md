@@ -51,19 +51,45 @@ Avoid starting headings or sentences with backticks or code:
 
 ## Capitalization
 
-Use sentence capitalization for titles and headings rather than title capitalization, unless the customer expresses a preference for title capitalization. If you’re unsure, check the customer's style guide (if they have one) or match formatting to their existing documentation.
+### Titles and headings
+
+Capitalize titles and headings according to the customer's style guide if they have one or match capitalization to their existing documentation.
+
+At Ritza, we default to **sentence case** for titles and headings.
 
 *  ✅ Using multiplayer with anonymous users
 
-Title capitalization: Capitalize the first word of the title and all nouns, verbs, adjectives, and adverbs. Don’t capitalize articles (a, the), prepositions (on, over), and conjunctions (and, but).
+Some of our customers prefer **title case** for titles and headings. 
 
-*  ✅ Setting up Stripe Checkout and Email Subscription with Flask and Code Capsules
+Title case uses an initial capital for the first word of the title and all nouns, verbs, adjectives, and adverbs. Don't capitalize the first letter of articles (a, the), conjunctions (and, but), and short prepositions (on, for). Applying title case can be tricky because a word may have a different function depending on its context. For example, "to" is a preposition in "Migrating to Bryntum" but an infinitive marker (part of the verb) in "How To Log In".
+
+To correctly capitalize titles and headings, use a tool like [Title Case Converter](https://titlecaseconverter.com).
+
+*  ✅ Setting Up Stripe Checkout and Email Subscription With Flask and Code Capsules
+
+Occasionally, our customers prefer **start case** for titles and headings. Start case uses an initial capital for every word.
+
+* ✅ Using The FusionAuth React SDK In A React Application
+
+### Company names
 
 Some company names use irregular capitalization rules. We've compiled a list of common examples [here](./vocabulary/brandnames), but you should check the company website to confirm their preferred formatting if there's any doubt.
 
 If the company website doesn't clear up how to capitalize their brand name, follow Wikipedia usage.
 
+### Websites and web publications
+
 Capitalize the names of websites and web publications. Don't italicize.
+
+## Code comments
+
+When adding comments to your code, start with a capital letter and use conventional punctuation if the comment is a full sentence or multiple sentences.
+
+* ✅ // This config enables response validation and dumping of found errors to the browser console. It's meant to be used as a helper during the development stage, so please set it to false for production systems.
+
+Short phrases and incomplete sentences don't need to start with a capital letter or end with a period.
+
+* ✅ // insert record
 
 ## Commas
 
@@ -208,3 +234,22 @@ We use **set up** as a verb:
 ## URLs and websites
 
 Avoid spelling out URLs, but when you need to, leave off `http://www.`.
+
+## Word list
+
+A growing list of how we use specific words in the content we produce.
+
+### Data - singular or plural?
+
+Always treat "data" as a singular noun.
+
+* ❌ Import data and organize them.
+* ✅ Import data and organize it.
+
+### Frontend and backend
+
+Always write "frontend" and "backend" as single words.
+
+### Internet
+
+Don't give "internet" an initial capital unless it appears at the start of a sentence.

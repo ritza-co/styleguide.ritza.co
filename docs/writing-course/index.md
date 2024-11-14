@@ -1,12 +1,13 @@
 ---
-title: Ritza's Writing and Coding Course
-description: Learn to write if you're a coder. Learn to code if you're a writer. Sign up for our part time, remote course to learn to write or code.
-image: assets/wfccfw.png
+title: Ritza's Intensive Writing Course
+description: Learn to write and write well.
+image: assets/writing-for-coders.png
 ---
 
-# Ritza's Writing and Coding Course
+# Ritza's Intensive Writing Course
 
-Ritza runs a writing and coding course that is broken into two parallel streams.
+We run an intensive writing course to help people level up their writing. The course is a "learn-by-doing" course. You'll write a lot and get personalised feedback on your writing from one of our professional editors.
+
 
 * [Writing for Coders](./writing-for-coders.md) is for software engineers who want to improve their writing skills.
 * [Coding for Writers](./coding-for-writers.md) is for writers who want to learn to code.
