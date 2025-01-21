@@ -234,3 +234,22 @@ We use **set up** as a verb:
 ## URLs and websites
 
 Avoid spelling out URLs, but when you need to, leave off `http://www.`.
+
+## Word list
+
+A growing list of how we use specific words in the content we produce.
+
+### Data - singular or plural?
+
+Always treat "data" as a singular noun.
+
+* ❌ Import data and organize them.
+* ✅ Import data and organize it.
+
+### Frontend and backend
+
+Always write "frontend" and "backend" as single words.
+
+### Internet
+
+Don't give "internet" an initial capital unless it appears at the start of a sentence.
