@@ -16,6 +16,8 @@ theme:
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
+  - admonition
+  - pymdownx.details
 
 extra:
   generator: false
