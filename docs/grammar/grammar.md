@@ -233,7 +233,38 @@ We use **set up** as a verb:
 
 ## URLs and websites
 
-Avoid spelling out URLs, but when you need to, leave off `http://www.`.
+Avoid spelling out URLs, but when you need to, usually leave off the `http://` or `https://` prefixes if they are not important. 
+
+* ✅ `navigate to [github.com](https://github.com)] and create a new repository`
+* ❌ navigate to [https://github.com](https://github.com)] to create a new repository` 
+
+Note that while `www` is a typically used subdomain and many sites are configured to treat `www.example.com` and `example.com` as the same, this is not always the case. If you want to remove the `www`, first check that it is equivalent.
+
+## Initialisms, Acronyms, and Tautologies
+
+A common error is to include the last word of an initialism again in a sentence, like "We got money from the ATM machine" or "We host our site using AWS services". This is technically incorrect as the final word is repeated (the M stands for machine, the S for services).
+
+However common usage sometimes lets us ignore this mistake. It's better for a sentence to sound natural than to be pedantically correct. 
+
+* ❌ We host our site on AWS services
+* ✅ We host our site on AWS
+* ⚠️  AWS services can be expensive - this is technically wrong, but it sounds natural, it's obvious what it means, and there isn't an easy way to correct it
+
+Where it's easy, rather rephrase to avoid the tautology, but not at the expense of clarity or [SWANS](https://blog.inkyfool.com/2014/02/less-fewers.html).
+
+Initialisms and acronyms look the same, but when read out loud you say each letter of the initialism, but say an acronym as a word. There's sometimes a subtle distinction on when to use definite or indefinite articles, or to omit the article altogether.
+
+* ✅ The Model Context Protocol is a standard that lets developers build AI agents
+* ✅ MCP is a protocol
+* ✅ The Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems
+* ✅ HTTP is a protocol
+
+Some are controversial, like "SQL". Some people say "Es Queue El" while others say "Sequel". Therefore
+
+* ⚠️  A SQL Query
+* ⚠️  An SQL Query
+
+We slightly prefer "A SQL" if there are no other factors (like an explicit style guide, or previous usage), but as long as there is consistency within a given document, either is correct.
 
 ## Word list
 
