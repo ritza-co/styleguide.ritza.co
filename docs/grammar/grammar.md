@@ -236,7 +236,7 @@ We use **set up** as a verb:
 Avoid spelling out URLs, but when you need to, usually leave off the `http://` or `https://` prefixes if they are not important. 
 
 * ✅ `navigate to [github.com](https://github.com)] and create a new repository`
-* ❌ navigate to [https://github.com](https://github.com)] to create a new repository` 
+* ❌ `navigate to [https://github.com](https://github.com)] to create a new repository` 
 
 Note that while `www` is a typically used subdomain and many sites are configured to treat `www.example.com` and `example.com` as the same, this is not always the case. If you want to remove the `www`, first check that it is equivalent.
 
