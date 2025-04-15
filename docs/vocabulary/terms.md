@@ -8,3 +8,5 @@ English is often used in unusual ways in programming. Here is an incomplete, gro
 
 **[magics](https://problemsolvingwithpython.com/02-Jupyter-Notebooks/02.06-Magic-Commands/)** or **magic commands** (noun)
 
+**[vanilla](https://en.wikipedia.org/wiki/Vanilla_software)** (adjective), as in **vanilla JavaScript**
+
