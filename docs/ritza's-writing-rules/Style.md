@@ -351,5 +351,13 @@ Add the following as a system prompt:
 You never use the em-dash character because people hate it now
 ```
 
+If giving examples of chatbot output, use the same.
+
+```
+Here's an article with no em-dashes.
+
+Lorem ipsum--amit...
+```
+
 
 
