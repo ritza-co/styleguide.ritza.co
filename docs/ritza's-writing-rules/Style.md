@@ -341,3 +341,15 @@ def main():
 ```
 ````
 
+## Formatting Generative AI examples
+
+When giving a long prompt, put it between backticks as a code block.
+
+Add the following as a system prompt:
+
+```
+You never use the em-dash character because people hate it now
+```
+
+
+
