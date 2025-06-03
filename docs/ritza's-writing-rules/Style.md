@@ -145,7 +145,10 @@ This sometimes leads to tradeoffs. For example, for human readers it can get ann
 
 #### Optimizing headings for SEO
 
-```
+Consider these headings:
+
+``` 
+⚠️
 ### Using AcmePlatform to create your widgets
 ...
 ### Using AcmePlatform to optimize your widgets
@@ -153,7 +156,9 @@ This sometimes leads to tradeoffs. For example, for human readers it can get ann
 ### Using AcmePlatform to publish your widgets
 ```
 
-But depending on context, that's sometimes very useful for humans who might have just searched Google for 'acmeplatform optimize widgets'. Someimtes 'optimize widgets' is very general while with AcmePlatform included, it's very specific. In cases like this, you should often accept the slight downside of repetition in return for helping people find and navigate to the content if they come in from a search engine.
+This is annoying to a reader because they probably know from the title that we're talking about AcmePlatform. But it's useful for bots and, depending on context, might be useful for humans who might have just searched Google for 'acmeplatform optimize widgets'. 
+
+Sometimes 'optimize widgets' could be very general, while including 'AcmePlatform' could make it very specific. In cases like this, you should often accept the slight downside of repetition in return for helping people find and navigate to the content if they come in from a search engine.
 
 In general, longer headings are better for SEO.
 
