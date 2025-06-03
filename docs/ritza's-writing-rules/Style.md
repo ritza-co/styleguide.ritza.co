@@ -175,7 +175,8 @@ Sometimes headings are much too generic. For example, the below headings tell th
 
 A possible fix is to add more repetition, similar to the example above. This already makes it easier to see what the article is about, but there's still very limited information.
 
-```⚠️
+```
+⚠️
 # AcmeHub and Widgets
 ## Prerequisites for using AcmeHub with your Widgets
 ## Setting up AcmeHub
@@ -186,7 +187,8 @@ A possible fix is to add more repetition, similar to the example above. This alr
 
 Where possible, use more varied context from the article (maybe also influenced by any separate information you have about what people are commonly searching for) to have headings that are both informative and not repetitive.
 
-```✅
+```
+✅
 # AcmeHub and Widgets
 ## Prerequisites for using AcmeHub
 ## Setting up AcmeHub with Sprockets
