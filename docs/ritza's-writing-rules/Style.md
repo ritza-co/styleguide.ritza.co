@@ -127,11 +127,74 @@ Rather use word order, sentence structure, and punctuation to draw the reader's 
 
 The structure of your article helps to present information in the clearest way. Here are some things to keep in mind regarding structure:
 
+![distilling information](./img/distillinginfo.png)
+
 ### Keep structures as flat as possible.
 
 Use heading 1 (`#` in Markdown) for the title and heading 2 (`##`) to break things down into logical sections. Heading 3 (`###`) can be used where necessary for sub-sections, but in general, having a deeply nested structure makes things harder to follow, harder to edit, and harder to reuse. As a writer, your job is to take a complicated graph of interconnected ideas and break them down into a linear structure that can be read from start to end.
 
-![distilling information](./img/distillinginfo.png)
+### Make headings good for humans and robots
+
+Headings have many different and sometimes competing functions. Specifically, they
+
+* Are often presented as an outline or table of contents of the article. This helps the reader decide whether or not to read the article
+* Are used heavily by search engines and agents (e.g. Google, ChatGPT) to find relevant content to give to readers
+* Help a reader figure out what is in a specific section and orient themselves in longer articles
+
+This sometimes leads to tradeoffs. For example, for human readers it can get annoying to have too much repetition in headings, but it can be helpful for search engines to know what a specific section is about.
+
+#### Optimizing headings for SEO
+
+```
+### Using AcmePlatform to create your widgets
+...
+### Using AcmePlatform to optimize your widgets
+...
+### Using AcmePlatform to publish your widgets
+```
+
+But depending on context, that's sometimes very useful for humans who might have just searched Google for 'acmeplatform optimize widgets'. Someimtes 'optimize widgets' is very general while with AcmePlatform included, it's very specific. In cases like this, you should often accept the slight downside of repetition in return for helping people find and navigate to the content if they come in from a search engine.
+
+In general, longer headings are better for SEO.
+
+#### Using headings as a sales pitch for the article
+
+Many platforms present the headings as a sidebar or at the start of the article. Readers often click on an article and read through these headings when deciding whether or not to read the article. So headings should be compelling. It's common for writers to assume that the reader has the surrounding context of the other sections and the introduction when writing headings, but this is not always a good assumption.
+
+Sometimes headings are much too generic. For example, the below headings tell the reader nothing about the article at all.
+
+```
+❌
+# Introduction 
+## Prerequisites
+## Setting up
+## Creating a GitHub repository
+## Future improvements
+## Recommendations
+```
+
+A possible fix is to add more repetition, similar to the example above. This already makes it easier to see what the article is about, but there's still very limited information.
+
+```⚠️
+# AcmeHub and Widgets
+## Prerequisites for using AcmeHub with your Widgets
+## Setting up AcmeHub
+## Creating a GitHub repository for the Widgets project
+## The future of Widget optimizations
+## Recommendations for your Widgets
+```
+
+Where possible, use more varied context from the article (maybe also influenced by any separate information you have about what people are commonly searching for) to have headings that are both informative and not repetitive.
+
+```✅
+# AcmeHub and Widgets
+## Prerequisites for using AcmeHub
+## Setting up AcmeHub with Sprockets
+## An example project: A widget pipeline
+...
+```
+
+Here we've brought in some new concepts to the headings, hopefully in a way that makes sense.
 
 ### Always have content between headings
 
