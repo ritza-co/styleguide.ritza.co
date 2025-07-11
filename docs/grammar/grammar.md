@@ -202,6 +202,13 @@ Numbers over three digits get commas:
 
 Use the % symbol instead of spelling out "percent".
 
+## Plus signs
+
+Avoid using the + symbol; rather write out "plus", "and more", or "or higher" in full.
+
+*  ❌ version 18+
+*  ✅ version 18 or higher
+
 ## Pronouns
 
 Use they, their, and them in the singular if the subject's gender is unknown or irrelevant:
@@ -230,6 +237,10 @@ We use **setup** as a noun or adjective:
 We use **set up** as a verb:
 
 * ✅ How to set up your account.
+
+## Tildes
+
+Avoid using the ~ symbol; rather write out "about" or "approximately" in full.
 
 ## URLs and websites
 
