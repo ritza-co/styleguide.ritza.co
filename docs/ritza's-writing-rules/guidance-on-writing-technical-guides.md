@@ -10,6 +10,12 @@ The following patterns are not hard rules that need to appear in all guides, but
 
 * **Explain the benefits and outcome of the guide** Where relevant, explain to the reader the benefit of following the guide as part of the introduction. You don't need to sell it or hype it, but often a good demo of the end result (e.g. an animated gif or short video) saying "By following this guide, you'll build... that looks like..." helps the reader decide if it's worth the effort to follow along.
 
+* **Include a diagram showing how components fit together**. Often a guide explains how to create or connect several components. While it might be obvious how they fit together and where data flows to the writer, the reader probably has less context. Where useful, include a diagram showing what the reader is starting with and what they will add by following the guide.
+
+![Diagram example](img/diagram-example.png)
+
+* **Follow the `main` and `completed-app` repo pattern**. A common pattern for guides is to assume that the reader already has something. You can provide an example of this in the accompanying repository, in the `main` branch. Assume that the reader has a goal state. You can include this in a `completed-app` branch of the same example repository. The guide should then cleanly show how to get from the starting point to the goal state, giving the reader the option of cloning the repo and stepping through the guide, or skipping to the end and taking just the result as a starting point.
+
 ## Not just how but also why  
 
 If you're explaining how to join various components together, keep the reader updated with context about the *why* and not just the *how*. While a majority of the guide is likely to be focused on step-by-step instructions and explaining *how* to do something, you should also have regular check-in points with the reader to explain some 'why' context. For simple guides without any options, this is not always needed, but for complicated guides the reader is likely to be skeptical of some of the author's decisions, and it's important to pre-empt these objections and explain why decisions were made.
