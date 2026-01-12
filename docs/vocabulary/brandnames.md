@@ -38,6 +38,7 @@ macOS (not macos, MacOS, Mac OS - previously OS X)
 minikube (not Minikube)
 nerdctl (not Nerdctl, nerdCTL)
 Nginx (not nginx, NGINX, NginX)
+ngrok (not Ngrok)
 NixOS, Nix, Nix language (not nix)
 Node.js (not NodeJS, node, Nodejs, Node.JS), but Node is fine after the first mention
 npm (not NPM)
