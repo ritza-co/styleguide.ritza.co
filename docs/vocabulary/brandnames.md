@@ -49,7 +49,7 @@ npm (not NPM)
 NuGet (not nuget, Nuget)
 OAuth 2.0 (not oAuth2.0)
 oazapfts (not Oazapfts), unless at the start of a sentence
-ObjectiveFoundation (not Object Foundation)
+ObjectiveFoundation (not Objective Foundation)
 oEmbed (not OEmbed, oembed)
 OpenSearch (not Opensearch, Open Search)
 OpenTelemetry (not Opentelemetry, Open Telemetry)
