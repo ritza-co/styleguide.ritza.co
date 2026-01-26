@@ -17,3 +17,5 @@ Finally, after the reader is convinced that they are in the right place and that
 
 Some related [advice from Larry McEnerney](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/7046/files/2014/10/UnivChic_WritingProg-1grt232.pdf) focused on academic writing, but broadly applicable to technical writing too.
 
+Also see Gwern's [Make Me Care](https://gwern.net/blog/2026/make-me-care) on engaging readers from the start.
+
