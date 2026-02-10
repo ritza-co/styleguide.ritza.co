@@ -4,6 +4,12 @@ Often people battle with introductions and conclusions. Here are some tips for w
 
 The introduction should assume a technical audience, and that should be clear from the opening sentences. A common mistake is to write some much more generic opening sentences that try to include non-technical people (who would never read the rest of the article) too.
 
+## Introductions need to be "compelling"
+
+- Usually this means telling the reader what they'll get if they take the time to read or work through the article.
+- For tutorials and guides, we should almost always have a 'demo' at the start, showing the reader what they get
+- Often this should be a short gif, sometimes a screenshot or description is good enough, so use your judgement
+
 Here are some tips for before writing the introduction:
 
 - Define the audience in some detail. Perhaps think of a specific colleague or friend if you know someone who falls in the target audience. Perhaps it is broad, so think of a couple of people, then.
